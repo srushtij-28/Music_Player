@@ -27,3 +27,4 @@ shows a rotating disc animation.
 
 -   Python 3
 -   Pygame
+
